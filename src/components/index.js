@@ -7,6 +7,16 @@ import CTA from "./CTA";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
+import Conceptual from "./conceptual"
+import Conceptual2 from "./conceptual2"
+import Conceptual3 from "./conceptual3"
+import Conceptual4 from "./conceptual4"
+import Conceptual5 from "./conceptual5"
+import SETech from "./setech"
+import SETech2 from "./setech2"
+import SETech3 from "./setech3"
+import Roger from "./roger"
+import Roger2 from "./roger2"
 
 export {
   Navbar,
@@ -15,6 +25,16 @@ export {
   Business,
   Clients,
   CTA,
+  Conceptual,
+  Conceptual2,
+  Conceptual3,
+  Conceptual4,
+  Conceptual5,
+  Roger,
+  Roger2,
+  SETech,
+  SETech2,
+  SETech3,
   Footer,
   Testimonials,
   Hero,

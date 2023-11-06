@@ -1,11 +1,8 @@
-import { feedback } from "../constants";
+import { people01 } from "../assets";
 import styles from "../style";
-import FeedbackCard from "./FeedbackCard";
 
 const Testimonials = () => (
-  <section id="clients" className={`${styles.paddingY} ${styles.flexCenter} flex-col relative `}>
-    
-  </section>
+  <p></p>
 );
 
 export default Testimonials;

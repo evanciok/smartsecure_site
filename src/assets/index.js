@@ -23,6 +23,13 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
+import setech1 from "./setech1.png"
+import setech2 from "./setech2.png"
+import setech3 from "./setech3.png"
+import roger1 from "./roger1.png"
+import roger2 from "./roger2.png"
+import roger3 from "./roger3.png"
+import roger4 from "./roger4.png"
 
 export {
   airbnb,
@@ -38,6 +45,13 @@ export {
   shield,
   star,
   menu,
+  setech1,
+  setech2,
+  setech3,
+  roger1,
+  roger2,
+  roger3,
+  roger4,
   close,
   google,
   apple,
