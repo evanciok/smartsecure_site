@@ -11,7 +11,7 @@ const Jun = () => (
         3rd Mechanical <br></br> Technical Analysis
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Three part FEA study to obtain stress, displacement, and strain results. Stabilizer, door, and outer door were in fixed positions with a 5lbf torque placed upon the rotating mechanism. 
+        Three part FEA study to obtain stress, displacement, and strain results. Stabilizer, door, and outer door were in fixed positions with a 5lbf torque placed upon the rotating mechanism. Similar to other analyses, due to the high strength of the materials used there would be no impactful deformation or strain on the product.
       </p>
     </div>
   </section>
