@@ -30,6 +30,13 @@ import roger1 from "./roger1.png"
 import roger2 from "./roger2.png"
 import roger3 from "./roger3.png"
 import roger4 from "./roger4.png"
+import adriana1 from "./adriana1.png"
+import adriana2 from "./adriana2.png"
+import adriana3 from "./adriana3.png"
+import adriana4 from "./adriana4.png"
+import jun1 from "./jun1.png"
+import jun2 from "./jun2.png"
+import jun3 from "./jun3.png"
 
 export {
   airbnb,
@@ -52,6 +59,13 @@ export {
   roger2,
   roger3,
   roger4,
+  adriana1,
+  adriana2,
+  adriana3,
+  adriana4,
+  jun1,
+  jun2,
+  jun3,
   close,
   google,
   apple,
