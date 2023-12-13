@@ -37,6 +37,13 @@ import adriana4 from "./adriana4.png"
 import jun1 from "./jun1.png"
 import jun2 from "./jun2.png"
 import jun3 from "./jun3.png"
+import alpha1 from "./alpha1.png"
+import alpha2 from "./alpha2.png"
+import alpha3 from "./alpha3.png"
+import app1 from "./app1.png"
+import app2 from "./app2.png"
+import app3 from "./app3.png"
+import duino from "./duino.png"
 
 export {
   airbnb,
@@ -78,4 +85,11 @@ export {
   people01,
   people02,
   people03,
+  alpha1,
+  alpha2,
+  alpha3,
+  app1,
+  app2,
+  app3,
+  duino
 };

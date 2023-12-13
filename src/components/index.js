@@ -21,6 +21,11 @@ import Adriana from "./adriana"
 import Adriana2 from "./adriana2"
 import Jun from "./jun"
 import Jun2 from "./jun2"
+import MechAlpha1 from "./mechalpha1"
+import MechAlpha2 from "./mechalpha2"
+import SoftAlpha1 from "./softalpha1"
+import SoftAlpha2 from "./softalpha2"
+import SoftAlpha3 from "./softalpha3"
 
 export {
   Navbar,
@@ -43,6 +48,11 @@ export {
   SETech,
   SETech2,
   SETech3,
+  MechAlpha1,
+  MechAlpha2,
+  SoftAlpha1,
+  SoftAlpha2,
+  SoftAlpha3,
   Footer,
   Testimonials,
   Hero,
