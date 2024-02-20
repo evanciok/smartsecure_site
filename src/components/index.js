@@ -26,6 +26,10 @@ import MechAlpha2 from "./mechalpha2"
 import SoftAlpha1 from "./softalpha1"
 import SoftAlpha2 from "./softalpha2"
 import SoftAlpha3 from "./softalpha3"
+import Gantt from "./gantt"
+import Newbom from "./newbom"
+import Alphatest from "./alphatest"
+import Fabplan from "./fabplan"
 
 export {
   Navbar,
@@ -53,6 +57,10 @@ export {
   SoftAlpha1,
   SoftAlpha2,
   SoftAlpha3,
+  Gantt,
+  Newbom,
+  Alphatest,
+  Fabplan,
   Footer,
   Testimonials,
   Hero,

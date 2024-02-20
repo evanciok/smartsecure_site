@@ -2,7 +2,7 @@ import { setech1 } from "../assets";
 import styles, { layout } from "../style";
 
 const SETech = () => (
-    <section id="p2" className={layout.section}>
+    <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
         Software <br></br> Technical Analysis 

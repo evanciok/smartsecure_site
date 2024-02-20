@@ -5,7 +5,7 @@ const Clients = () => (
   <section id="clients" className={layout.section}>
     <div>
       <h2 className={`${styles.heading2} text-center`}>
-        Gantt Chart 
+        Phase I-III Gantt Chart 
       </h2>
       <p className={`${styles.paragraph} text-center mt-5`}>
         Red: All Members, Yellow: Mechanical Team, Blue: Software Team

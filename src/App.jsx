@@ -1,5 +1,5 @@
 import styles from "./style";
-import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Testimonials, Hero, Conceptual, Conceptual2, Conceptual3, Conceptual4, Conceptual5, SETech, SETech2, SETech3, Roger, Roger2, Adriana, Adriana2, Jun, Jun2, MechAlpha1, MechAlpha2, SoftAlpha1, SoftAlpha2, SoftAlpha3 } from "./components";
+import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Testimonials, Hero, Conceptual, Conceptual2, Conceptual3, Conceptual4, Conceptual5, SETech, SETech2, SETech3, Roger, Roger2, Adriana, Adriana2, Jun, Jun2, MechAlpha1, MechAlpha2, SoftAlpha1, SoftAlpha2, SoftAlpha3, Gantt, Newbom, Alphatest, Fabplan } from "./components";
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
@@ -42,6 +42,10 @@ const App = () => (
         <SoftAlpha1 />
         <SoftAlpha2 /> 
         <SoftAlpha3 />
+        <Gantt />
+        <Newbom />
+        <Alphatest />
+        <Fabplan />
         <Footer />
       </div>
     </div>
