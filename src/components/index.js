@@ -30,6 +30,8 @@ import Gantt from "./gantt"
 import Newbom from "./newbom"
 import Alphatest from "./alphatest"
 import Fabplan from "./fabplan"
+import Demo from "./demo"
+import Up2 from "./update2"
 
 export {
   Navbar,
@@ -61,6 +63,8 @@ export {
   Newbom,
   Alphatest,
   Fabplan,
+  Demo,
+  Up2,
   Footer,
   Testimonials,
   Hero,

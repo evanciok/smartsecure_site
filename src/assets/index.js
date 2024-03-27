@@ -46,6 +46,7 @@ import app3 from "./app3.png"
 import duino from "./duino.png"
 import phase4gantt from "./phase4gantt.png"
 import updatebom from "./update bom.png"
+import beta from "./beta.png"
 
 export {
   airbnb,
@@ -95,5 +96,6 @@ export {
   app3,
   duino,
   phase4gantt,
-  updatebom
+  updatebom,
+  beta
 };

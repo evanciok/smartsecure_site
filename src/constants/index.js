@@ -21,6 +21,10 @@ export const navLinks = [
     id: "p2",
     title: "Phases 4-6",
   },
+  {
+    id: "up",
+    title: "Updates",
+  }
 ];
 
 export const features = [
